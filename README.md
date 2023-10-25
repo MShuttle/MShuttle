@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @MShuttle
-- 👀 I’m interested in Mobile and Front end development
+- 👀 A Prince 2 trained Project Manager.
+-   Have extensive experience in Fintec.
+-   In terms of evolving landscape, I’m interested in mobile and front end development.
 
 
 <!---
