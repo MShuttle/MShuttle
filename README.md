@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MShuttle
-- 👀 I’m interested in Typescript, PWA's and front end frameworks
+- 👀 I’m interested in Mobile and Front end development
 
 
 <!---
